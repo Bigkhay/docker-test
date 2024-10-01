@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3000;
 
 // Root route
 app.get("/", (req: Request, res: Response) => {
-  res.send("Hello, world!");
+  res.send("Hello, KhAY!!!!!");
 });
 
 // A sample API route
