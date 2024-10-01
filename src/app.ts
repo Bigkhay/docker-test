@@ -13,7 +13,7 @@ app.get("/", (req: Request, res: Response) => {
 
 // A sample API route
 app.get("/api", (req: Request, res: Response) => {
-  res.json({ message: "Hello from the API!" });
+  res.json({ message: "Hello from the Kayode!" });
 });
 
 // Start the server
